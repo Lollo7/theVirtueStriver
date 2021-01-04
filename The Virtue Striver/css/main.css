@@ -171,7 +171,7 @@ ul{
 	font-family: Robot, verdana;
 	margin:0 auto;
 	width:30%;
-	list-style-type: "\1F449";
+	list-style-type: "👉";
 	font-size: 120%;
 	line-height:50px;
 	-webkit-animation: fadein 10s;
